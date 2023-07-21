@@ -1,24 +1,24 @@
 .color-1 {
-    color: goldenrod;
+  color: darkmagenta;
 }
 
-/*RGB RedGreenBlue*/
+/* Red Green Blue */
 /* 00 - ff */
 .color-2 {
-    color: #000000;
+  /* color: #4B0082; */
+  color: #000000;
 }
 
 .color-3 {
-    color: #ddd;
+  color: #ddd;
 }
 
-/*0-255*/
+/* 0 - 255 */
 .color-4 {
-    color: rgb(0, 150, 0);
-    opacity: 0.2; /* прозрачность */
+  color: rgb(0, 150, 0);
+  /* opacity: 0.2; */
 }
- 
-/*Так же можно RGBA + прозрачность от 0 до 1*/
+
 .color-5 {
-    color: rgba(150, 0, 0, 1);
+  color: rgba(150, 0, 0, 1);
 }
